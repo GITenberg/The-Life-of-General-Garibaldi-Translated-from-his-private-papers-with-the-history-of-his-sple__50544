@@ -1,9 +1,13 @@
 _repo: The-Life-of-General-Garibaldi-Translated-from-his-private-papers-with-the-history-of-his-sple__50544
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Dwight, Theodore
     gutenberg_agent_id: '45967'
     url: http://www.gutenberg.org/2009/agents/45967
+covers:
+- cover_type: archival
+  image_path: 50544-h/images/cover.jpg
 creator:
   author:
     agent_name: Garibaldi, Giuseppe
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2358
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Garibaldi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50544#The-Life-of-General-Garibaldi-Translated-from-his-private-papers-with-the-history-of-his-sple_
 gutenberg_issued: '2015-11-24'
 gutenberg_type: Text
 identifiers:
